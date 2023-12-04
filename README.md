@@ -78,7 +78,7 @@ So, step 2 return 2 cases:
 It has been implemented here:
 - https://github.com/JoanComasFdz/dotnet-exercise-state-updates-readmodel-oop
 
-## Functional: The new way?
+### Functional: The new way?
 It has been implemented here:
 - https://github.com/JoanComasFdz/dotnet-exercise-state-updates-readmodel-functional
 
